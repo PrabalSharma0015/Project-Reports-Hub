@@ -19,33 +19,31 @@ This repository contains detailed documentation and reports of my projects, incl
 
 ### 🎮 Game Development
 - **From Break to Battle: How I Created Soul Games**  
-  A personal journey of creating a soul-like game in Unreal Engine.  
+  [📄 View Report](https://www.overleaf.com/read/rtpgfvtqxfxt#611d25)  
 
 - **GTA Vibes: Simulating Crime, Chaos, and Control in a Custom Game World**  
-  A third-person open-world game built from scratch in Unreal Engine 5.  
+  [📄 View Report](https://www.overleaf.com/read/jrrkhmfqsmry#52632d)  
 
 - **Lyra Pack Extend**  
-  Extending Unreal Engine’s Lyra starter game framework with new features.  
+  [📄 View Report](https://www.overleaf.com/read/bgywmqzqnnjs#c72983)  
 
 ---
 
 ### 🥽 AR/VR Applications
 - **Bennett Museum in VR**  
-  A virtual tour of the Bennett University Museum integrated with a conversational AI guide.  
+  [📄 View Report](https://www.overleaf.com/read/prdbzjvjshzm#db9d95)  
 
 ---
 
 ### 🚁 Simulation Projects
 - **Helicopter Over the Cesium Map**  
-  A helicopter flight simulator integrated with Cesium maps, equipped with weapons systems.  
+  [📄 View Report](https://www.overleaf.com/read/wccpwkrhsyqv#9df08a)  
 
 ---
 
 ### 🤖 AI/ML & Computer Vision
 - **Camera Calibration using OpenCV (Static & Real-time)**  
-  Implementation of camera calibration techniques for accurate 3D–2D mapping using OpenCV.  
-  - *Static Calibration*: Uses pre-captured chessboard images.  
-  - *Real-Time Calibration*: Performs live calibration using webcam feed.  
+  [📄 View Report]()  
 
 ---
 
