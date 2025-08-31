@@ -33,6 +33,9 @@ This repository contains detailed documentation and reports of my projects, incl
 - **Bennett Museum in VR**  
   [📄 View Report](https://www.overleaf.com/read/prdbzjvjshzm#db9d95)  
 
+- **Beyond Paper: An Augmented Reality Business Card**  
+  [📄 View Report](https://www.overleaf.com/read/svtnjvkshghy#cf9d17)  
+
 ---
 
 ### 🚁 Simulation Projects
@@ -42,8 +45,8 @@ This repository contains detailed documentation and reports of my projects, incl
 ---
 
 ### 🤖 AI/ML & Computer Vision
-- **Camera Calibration using OpenCV (Static & Real-time)**  
-  [📄 View Report]()  
+- **Camera Calibration using OpenCV: Static and Dynamic Approaches**  
+  [📄 View Report](https://www.overleaf.com/read/cfsbxkvhpbbr#7fc40e)  
 
 ---
 
