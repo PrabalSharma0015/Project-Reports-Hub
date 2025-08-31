@@ -51,10 +51,10 @@ This repository contains detailed documentation and reports of my projects, incl
 ---
 
 ## ⚙️ Tech Stack
-- **Game Engines:** Unreal Engine 5  
-- **Programming:** C++, Python  
+- **Game Engines:** Unreal Engine 5, Unity Engine
+- **Programming:** C++, c#, Python
 - **Libraries/Frameworks:** Cesium, OpenCV, AI/ML libraries  
-- **Design & 3D Tools:** Blender, Maya, Substance Painter  
+- **Design & 3D Tools:** Blender, Maya, Substance Painter, Gaussian Splating, Vuforia SDK, AR Kit
 
 ---
 
